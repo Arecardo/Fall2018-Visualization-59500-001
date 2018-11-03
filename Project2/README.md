@@ -8,4 +8,4 @@
 ## How to run this project
 1. Download them into your local file system, put them at same directory.
 2. Run alice666.py.
-3. The program will generates the result and output a 1111.png file into the directory.
+3. The program will generates the result and outputs a 1111.png file into the directory.
