@@ -8,8 +8,8 @@ Instructor: Prof. Chen Bin
 3. trump-mask1.jpg: This image is used as mask 1.
 4. trump-mask2.jpg: This image is used as mask 2.
 5. Multidimensional Data Visualization.pdf: task file which is given by the professor.
-There are also two results images, *result_fromMask1.png, result_fromMask2.png*, to show what the ouptuts should looked like.
-A sample of alice wordcloud is given in folder *Alice_Sample*
+6. There are also two results images, *result_fromMask1.png, result_fromMask2.png*, to show what the ouptuts should looked like.
+7. A sample of alice wordcloud is given in folder *Alice_Sample*
 
 ## How to run this project:
 1. You should install python3.6 and some libraries in your computer.
@@ -17,9 +17,9 @@ A sample of alice wordcloud is given in folder *Alice_Sample*
 3. After installing, download files into your computer and put them at a same directory.
 4. Run trump_wordcloud.py.
 5. If you want to change mask, in line 34:
-'''ruby
+```ruby
 trump_mask = np.array(Image.open(path.join(d, "trump-mask1.jpg")))
-'''
+```
 change the "trump-mask1.jpg" into "trump-mask2.jpg".
 6. The program will generates the result and outputs a 1111.png file into the directory.
 7. The name of output file can also be changed.
