@@ -9,7 +9,7 @@ Instructor: Prof. Chen Bin
 4. trump-mask2.jpg: This image is used as mask 2.
 5. Multidimensional Data Visualization.pdf: task file which is given by the professor.  
   
-There are also two results images, *result_fromMask1.png, result_fromMask2.png*, to show what the ouptuts should looked like.  
+There are also two result images, *result_fromMask1.png, result_fromMask2.png*, to show what the ouptuts should looked like.  
 A sample of alice wordcloud is given in folder *Alice_Sample*.
 
 ## How to run this project:
