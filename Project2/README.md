@@ -21,7 +21,7 @@ A sample of alice wordcloud is given in folder *Alice_Sample*.
 ```ruby
 trump_mask = np.array(Image.open(path.join(d, "trump-mask1.jpg")))
 ```
-6. The program will generates the result and outputs a 1111.png file into the directory.
+6. The program will generates the result and outputs a 2222.png file into the directory.
 7. The name of output file can also be changed.
 8. Welcome any improvement of the program.
 
