@@ -4,7 +4,7 @@ Instructor: Prof. Chen Bin
 
 ## This project includes:
 1. trump_wordcloud.py: Main program which implements trump wordcloud.
-2. Donalds_Tweets.csv: A collection of Donald Trump tweets in 2015-2016 from [kaggle](https://www.kaggle.com/kingburrito666/better-donald-trump-tweets)
+2. Donalds-Tweets.csv: A collection of Donald Trump tweets in 2015-2016 from [kaggle](https://www.kaggle.com/kingburrito666/better-donald-trump-tweets)
 3. trump-mask1.jpg: This image is used as mask 1.
 4. trump-mask2.jpg: This image is used as mask 2.
 5. Multidimensional Data Visualization.pdf: task file which is given by the professor.  
