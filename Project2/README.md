@@ -16,11 +16,10 @@ Instructor: Prof. Chen Bin
 2. The libraries which are used in this project include: numpy, pandas, matplotlib, os, PIL and wordcloud.
 3. After installing, download files into your computer and put them at a same directory.
 4. Run trump_wordcloud.py.
-5. If you want to change mask, in line 34:
+5. If you want to change mask, change the "trump-mask1.jpg" into "trump-mask2.jpg" in line 34:
 ```ruby
 trump_mask = np.array(Image.open(path.join(d, "trump-mask1.jpg")))
 ```
-change the "trump-mask1.jpg" into "trump-mask2.jpg".
 6. The program will generates the result and outputs a 1111.png file into the directory.
 7. The name of output file can also be changed.
 8. Welcome any improvement of the program.
@@ -31,4 +30,4 @@ change the "trump-mask1.jpg" into "trump-mask2.jpg".
 3. alice.txt: original data text.
 
 ## How to run Alice Sample:
-Pretty same as trump wordcloud project.
+Same as trump wordcloud project.
