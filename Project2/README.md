@@ -10,7 +10,7 @@ Instructor: Prof. Chen Bin
 5. Multidimensional Data Visualization.pdf: task file which is given by the professor.  
   
 There are also two results images, *result_fromMask1.png, result_fromMask2.png*, to show what the ouptuts should looked like.  
-A sample of alice wordcloud is given in folder *Alice_Sample*
+A sample of alice wordcloud is given in folder *Alice_Sample*.
 
 ## How to run this project:
 1. You should install python3.6 and some libraries in your computer.
